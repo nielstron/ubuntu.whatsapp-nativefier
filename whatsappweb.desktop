@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=WhatsApp Web
+Comment=WhatsApp Web
+GenericName=Internet Messenger
+Exec=<pathto>/ubuntu.whatsapp-nativefier/WhatsAppWeb-linux-x64/WhatsAppWeb
+Icon=<pathto>/ubuntu.whatsapp-nativefier/whatsapp-nativefier.png
+Type=Application
+Categories=Internet
+Actions=new-empty-window;
+Keywords=whatsapp;
